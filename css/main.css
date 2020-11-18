@@ -25,6 +25,6 @@
   transform: rotate(100deg);
 }
 
-.smile:hover .right-eyebrow {
+.smiley:hover .right-eyebrow {
   transform: rotate(80deg);
 }
